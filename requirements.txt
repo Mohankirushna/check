@@ -1,0 +1,7 @@
+faiss-cpu
+numpy
+sentence-transformers
+pdfplumber
+transformers
+gradio
+# Add any other libraries you're using
